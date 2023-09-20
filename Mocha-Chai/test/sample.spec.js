@@ -1,5 +1,7 @@
 import assert from 'assert'
 
+const expect = chai.expect
+
 describe('Meu primeiro teste', () => {
     it('Verificar uma igualdade', () => {
         let aux = 2
